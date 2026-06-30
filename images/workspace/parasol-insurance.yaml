@@ -14,3 +14,4 @@ modules:
   - name: quarkus
   - name: opencode
   - name: zoocode
+  - name: kilocode

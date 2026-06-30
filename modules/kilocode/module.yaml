@@ -1,0 +1,7 @@
+schema_version: 1
+name: kilocode
+version: latest
+description: "Installs Kilo CLI and sets up Kilo configuration"
+execute:
+- script: install.sh
+
